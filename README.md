@@ -1,3 +1,3 @@
-# logintest
-Payment Page Using MongoDB 
+# Payment Page
+Payment Page Using MongoDB.
 
